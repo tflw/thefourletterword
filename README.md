@@ -1,6 +1,7 @@
 # T.F.L.W. - The Four Letter Word
 
-<img src=https://github.com/tflw/thefourletterword/issues/1#issue-1018723440, width="250">
+<img src="/Logo.jpg" width=300 align=left>
+
 
 With there being an overall increase in the usage of the internet, now more than ever, it goes without saying that the use of hate speech and cyberbullying hasn’t seen much of a halt. Even though social media has enabled reaching out to a majority of people, it has also caused there to be a plague of trolls who abuse and spread unnecessary hate, without realizing the impact a small line can have on people. 
  
